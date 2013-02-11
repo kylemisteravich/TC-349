@@ -4,57 +4,72 @@ p,h1,h3,h4,li{
 
 h1 {
 	margin: 0;
-	padding: 10px 10px;
-	background : #3399ff;
+	padding: 10px 15px;
+	background : #446180;
 	color: #fff;
-	text-shadow: 1px 1px 2px #424242;
+	border-radius: .5em;
+	text-shadow: 1px 1px 1px #424242;
 }
 
+h4 {
+	margin: 15px 250px 20px 250px;
+	padding: 10px 15px;
+	background : #446180;
+	color: #fff;
+	font-size: 1.20em;
+	border-radius: .5em;
+	text-shadow: 1px 1px 1px #424242;
+	
+}
 .navigation li{
-	margin: 0 auto;
+	margin-left: 11px;
     display:inline;
 	padding: 15px 30px 15px 30px;
 	font-weight: bold;
 	font-size: 20px;
-	background: #c0c0c0;
+	background: #446180;
 	border-radius: .5em;
 	text-decoration: none;	
 }
 
-a:link {
-	color: #585858;
+a:link, a:active, a:visited {
+	color: white;
 	text-decoration: none;
 }
 
-a:active {
-	color: #585858;
-}
-
-a:visited {
-	color: #585858;
-}
-
 a:hover {
-	color: #484848;
+	color: #b5b6b8;
 }
 
 body {
 	padding: 20px;
-	background: #ececec;
+	background: #c8d6e6;
 	width: 700px;
 	margin: 0 auto;
 }
 
 .selfpicture {
-	padding-left: 30px;
-	padding-top: 60px;
-	float: right;
-
+	margin-top: 105px;
+	margin-left: 10px;
+	float: right;	
 }
 
 .information {
 	margin-top: 40px;
 	padding: 15px;
-	background: #fefefe;
-	
+	background: #dde7f2;
+	border-radius: .75em;	
 }
+
+img {
+	border-radius: .75em;
+}
+
+a.websitelinks:link, a.websitelinks:active, a.websitelinks:visited {
+	color: #446180;
+}
+
+a.websitelinks:hover { 
+	color: black
+}
+
