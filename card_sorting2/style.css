@@ -1,0 +1,27 @@
+p, h1, h2, h3 {
+	font-family: helvetica, sans-serif;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+body {
+	width: 850px;
+	margin: 0 auto;
+	padding: 25px;
+}
+
+a {
+	font-family: helvetica, sans-serif;
+	font-size: 1.25em;
+	background-color: #e0e0e0;
+	border-radius: .5em;
+	padding: 10px 80px 10px 80px;
+
+}
+
+a:hover, a:link, a:active, a:visited {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+
