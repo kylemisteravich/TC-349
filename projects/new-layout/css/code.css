@@ -1,0 +1,136 @@
+p,h1,h3,h4,li,footer{
+	font-family: helvetica, sans-serif
+} 
+
+p {
+	text-indent: 25px;
+}
+
+html {
+	overflow-y: scroll;
+}
+
+h1 {
+	margin: 0;
+	padding: 10px 15px;
+	background : #446180;
+	color: #fff;
+	border-radius: .5em;
+	text-shadow: 1px 1px 1px #424242;
+}
+
+h4 {
+	margin: 5px;
+	padding: 10px;
+	background : #446180;
+	color: #fff;
+	font-size: 1.20em;
+	border-radius: .5em;
+	text-shadow: 1px 1px 1px #424242;	
+}
+
+.navigation li{
+	margin-left: 11px;
+    display:inline;
+	padding: 15px 30px 15px 30px;
+	font-weight: bold;
+	font-size: 20px;
+	background: #446180;
+	border-radius: .5em;
+	text-decoration: none;	
+}
+
+a:link, a:active, a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #b5b6b8;
+}
+
+body {
+	padding: 20px;
+	background: #c8d6e6;
+	width: 700px;
+	margin: 0 auto;
+}
+
+.selfpicture {
+	margin: 0;
+	float: right;
+	padding: 20px;
+}
+
+.information {
+	margin-top: 40px;
+	padding: 20px;
+	background: #dde7f2;
+	border-radius: .75em .75em .0em .0em;	
+}
+
+.container {
+	margin: 0;
+	
+}
+
+.education {
+	width: 350px;
+	float: left;
+
+}
+
+.hobbies {
+	width: 350px;
+	float: left;
+}
+
+footer {
+	clear: both;
+	margin: 0;
+	text-align: center;
+	font-size: .95em;
+	padding: 10px;
+	background: #dde7f2;
+	color: #446180;
+	border-radius: .0em .0em .75em .75em;
+	border-top: solid medium #446180;
+
+}
+
+.social-icons {
+	padding-top: 7px;
+}
+
+aside {
+	padding-top: 50px;
+	width: 300px;
+	float: right;
+}	
+
+
+article {
+	margin: 0;
+	float: left;
+	padding: 15px;
+	
+	
+	
+}
+section {
+	margin: 0;
+
+}
+
+img {
+	border-radius: .75em;
+}
+
+a.websitelinks:link, a.websitelinks:active, a.websitelinks:visited {
+	color: #446180;
+}
+
+a.websitelinks:hover { 
+	color: black
+}
+

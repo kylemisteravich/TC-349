@@ -1,0 +1,9 @@
+Heroku seems like a pretty reliable website. I spent a couple of minutes looking everything over and I would feel confident buying server space feeling comfortable with my investment. I'm not too proud to admit that I don't fully comprehend everything that this website has to offer, but I feel like most of the graphs, descriptions, and user interface are fairly well done. I'm not too big of a fan of the overall look, though. 
+
+It could be the fact that the website is purple, or that it is laid out the way that thousand and thousands of other websites are laid out today - the menu bar up top looks very bland, the colors are somewhat dull, and nothing really grabs my attention. I'm not saying that this website is bad by any means. Like I said before, it seems like an extremely reliable website (something you would expect from a company who is trying to get you to buy storage space) but from a design standpoint, it's lacking some taste. I think this site could look better if they brightened the purple colors slightly or added different shades to give it more of a lighthearted feel. Add 2 or 3 exciting buttons and get the visitors more engaged in this service. 
+
+Basically, this website seems great, it's just a little boring to look at.
+
+- My New Website Layout -
+
+In order to make my website have some more variety and make it a little more interesting, I went ahead and added a footer (with more appealing links), more pictures, and re-arranged some of the layout using the techniques we learned in class this week. I made two of the pages have two columns (Hobbies and Education) and gave my portfolio page a slight revamp by incorporating sections and articles to display my work in a miniature gallery type environment.
