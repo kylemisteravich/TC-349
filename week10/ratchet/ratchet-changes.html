@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mobile Site</title>
+
+    <!-- Sets initial viewport load and disables zooming  -->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <!-- Set Apple icons for when prototype is saved to home screen -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="touch-icons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="touch-icons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="touch-icons/apple-touch-icon-57x57.png">
+
+    <!-- Include the compiled Ratchet CSS -->
+    <link rel="stylesheet" href="ratchet.css">
+
+    <!-- Include the compiled Ratchet JS -->
+    <script src="ratchet.js"></script>
+
+    <!-- Intro paragraph styles. Delete once you start using this page -->
+    <style type="text/css">
+        .welcome {
+          line-height: 1.5;
+          color: #555;
+        }
+    </style>
+
+  </head>
+  <body>
+
+  <!-- Make sure all your bars are the first things in your <body> -->
+  <header class="bar-title">
+    <h1 class="title">Mobile Site</h1>
+  </header>
+
+  <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
+  <div class="content">
+    <div class="content-padded">
+        <ul class="segmented-controller">
+          <li class="active">
+            <a href="#item1">Home</a>
+          </li>
+          <li>
+            <a href="#item2">School</a>
+          </li>
+          <li>
+            <a href="#item3">Work</a>
+          </li>
+        </ul>
+        <ul class="inset list">
+          <li id="item1" class="segmented-controller-item active">
+            Navigation
+          </li>
+          <li id="item2" class="segmented-controller-item active">
+            Navigation
+          </li>
+          <li id="item3" class="segmented-controller-item active">
+            Navigation
+          </li>
+        </ul>
+        
+      <p class="welcome">
+          <h1>Content</h1>
+          <p>
+          <a class="button">1</a>
+          <a class="button">2</a>
+          <a class="button">3</a>
+          </p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+
+  
+  </div>
+
+  </body>
+</html>
