@@ -330,6 +330,9 @@ a.footerlinks{
 	}
 	
 	article {
+		width: 100%;
+		height: auto;
+		box-shadow: none;
 		margin: 0px;
 	}
 	
@@ -339,11 +342,23 @@ a.footerlinks{
 		width: 100%;
 	}
 	
+	.selfpicture, #me {
+		
+		box-shadow: none;
+		margin: 0;
+		padding: 0;
+		width: 100%;
+		height: auto;
+		float: none;
+		
+	}
+	
 	article, section, .guitar, .resize_images, #resize, #resize1,
-	#resize2, #resize3, #resize4, .selfpicture, #me {
+	#resize2, #resize3, #resize4 {
+			box-shadow: none;
 		    max-width: 100%;
 		    height: auto;
-		    width: auto;
+		    width: 100%;
 		    margin: 0;
 			border-radius: 0em;
 			
